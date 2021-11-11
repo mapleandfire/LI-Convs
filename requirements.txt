@@ -1,0 +1,18 @@
+# conda create --name li_conv python=3.7.6
+# conda activate li_conv
+# python -m pip install --upgrade pip setuptools
+# conda install -c anaconda cudatoolkit=10.0
+# conda install -c anaconda cudnn=7.6.0
+## if no cuda, first install cuda and cudnn by conda:
+# conda install -c anaconda cudatoolkit=9.0
+# conda install -c anaconda cudnn=7.6.0
+tensorflow-gpu==1.15
+opencv-python
+matplotlib
+pypng
+Pillow
+scipy
+h5py
+seaborn
+numpy==1.16.4
+ipython

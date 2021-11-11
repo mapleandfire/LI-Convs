@@ -1,0 +1,15 @@
+
+*.pyc
+*.ckpt
+
+/**/.idea
+
+*checkpoint*
+
+# ignore snapshot folders
+baselines/**/*snapshots
+*snapshot*
+
+
+
+
