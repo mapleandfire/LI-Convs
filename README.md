@@ -95,7 +95,7 @@ All modifiable parameters are put into config files locating under `$ROOT/config
 NOTE: Evaluation results will be saved to `$ROOT/../LI-Convs-snapshots/$DS/$CF/test` where `$CF` is the name of the config file. Please reserve this path to avoid data corruption.
 
 
-Download the [pre-trained checkpoints](https://drive.google.com/file/d/1XVena4cwA81yj0w8xc-el9EYE79sQQ1a/view?usp=sharing) and unzip the downloaded "LI-Convs-snapshots.zip" to `$ROOT/../LI-Convs-snapshots` as following: 
+Download the [pre-trained checkpoints](https://drive.google.com/file/d/1qZP4XpAlTQegM1SQ7uDeN-L0byIIXiyF/view?usp=sharing) and unzip the downloaded "LI-Convs-snapshots.zip" to `$ROOT/../LI-Convs-snapshots` as following: 
 ```
 + $ROOT
     + dataset_generation
